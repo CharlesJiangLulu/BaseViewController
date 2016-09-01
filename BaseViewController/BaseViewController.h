@@ -1,9 +1,9 @@
+//  BaseViewController
 //
-//  BaseViewController.h
+//  Created by quwanma_pb on 16/9/1.
+//  Copyright © 2016年 quwanma. All rights reserved.
 //
-//  Created by k on 16/6/6.
-//  Copyright © 2016年 k. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 //#import "PBButton.h"
